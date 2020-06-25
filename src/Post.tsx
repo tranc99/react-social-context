@@ -8,7 +8,7 @@ const Post = (props) => {
     <p>
       <img
         src="cat-img.jpg"
-        alt=""
+        alt="Cat"
         height="auto"
         width="20%"
         className="img-fluid float-left mr-2"
